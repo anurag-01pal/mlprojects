@@ -21,7 +21,7 @@ vesion = '0.0.1',
 author='Anuag',
 author_email='pal5339anuag@gmail.com',
 packages=find_packages(),
-install_requires = get_requiremnets('requirement.txt')
+install_requires = get_requiremnets('requirements.txt')
 
 
 
